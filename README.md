@@ -1,6 +1,9 @@
 ⚽ FC 25 Player Analytics Dashboard
 A comprehensive Streamlit web application for analyzing FIFA 25 player data with interactive visualizations, advanced filtering, and detailed player comparisons.
 
+![image](https://github.com/user-attachments/assets/2c2a8c3a-c8bd-4166-94fa-4f0609f34cc5)
+
+
 🌟 Features
 📊 Overview Analytics
 
@@ -10,6 +13,8 @@ Position and nationality distribution charts
 Interactive attribute analysis with histograms
 
 ⚔️ Player Comparison
+![image](https://github.com/user-attachments/assets/889be3a9-a2be-4bd6-a356-7b04b5b22733)
+
 
 Head-to-head player comparisons
 Radar chart visualizations for attribute analysis
@@ -18,12 +23,17 @@ Visual performance comparisons
 
 🧤 Goalkeeper Analysis
 
+![image](https://github.com/user-attachments/assets/74f49bc0-3cfc-403e-8dd2-da9dce2d4002)
+
+
 Specialized goalkeeper statistics
 GK-specific attribute analysis
 Top performer rankings
 Comprehensive goalkeeper data tables
 
 📈 Advanced Analytics
+![image](https://github.com/user-attachments/assets/df6f10e1-d6be-43d0-bb68-86755a06e9e0)
+
 
 Age vs Overall rating correlations
 Attribute correlation heatmaps
@@ -31,6 +41,9 @@ Team performance analysis
 Statistical insights and trends
 
 🔍 Player Search
+
+![image](https://github.com/user-attachments/assets/3a729c1d-7019-4b1c-902b-64baab1a0e7b)
+
 
 Advanced search with multiple criteria
 Individual player detailed profiles
