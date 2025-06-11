@@ -38,7 +38,7 @@ st.markdown("""
 @st.cache_data
 def load_data():
     try:
-        df = pd.read_csv(r"c:\Users\h\Documents\archive (2)\all_players.csv")
+        df = pd.read_csv(r"WRITE_THE_PATH_OF_THE_DATASET")
         df = df.dropna(subset=['Name', 'OVR'])
         
         numeric_cols = ['Age', 'OVR', 'PAC', 'SHO', 'PAS', 'DRI', 'DEF', 'PHY', 
